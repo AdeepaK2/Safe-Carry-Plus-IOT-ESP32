@@ -1,9 +1,5 @@
 # Safe-Carry-Plus-IOT-ESP32
-Here's a README file for the Safe Carry Plus project:
 
----
-
-# Safe Carry Plus - Smart Luggage
 
 Welcome to the Safe Carry Plus project! This repository contains the code and documentation for our Microcontroller-Based Application Development Project, which aims to create a smart luggage system that enhances travel security and convenience.
 
